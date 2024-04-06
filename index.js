@@ -1,11 +1,16 @@
 //Classificador de nivel de heroi
 
-let heroName = "Shury";
+let heroName = "Shury"
 let xp = 8500;
 
 let heroLevel;
-if (xp < 1000){
-    level ="Ferro"
+if (heroLevel< 1000) {
+    heroLevel = "Ferro";
 }
-return heroLevel;
-console.log("The Hero of name " + heroName + " it's on level: "+ heroLevel + "!");
+else if (heroLevel > 1000 && heroLevel <= 2000){
+    heroLevel
+}
+
+
+
+console.log("não funcina")
