@@ -8,7 +8,7 @@ if (heroLevel< 1000) {
     heroLevel = "Ferro";
 }
 else if (heroLevel > 1000 && heroLevel <= 2000){
-    heroLevel
+    heroLevel = "Bronze";
 }
 
 
