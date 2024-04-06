@@ -1,16 +1,27 @@
 //Classificador de nivel de heroi
 
-let heroName = "Shury"
-let xp = 8500;
+const heroName = "Shury"
+const heroExperience= 2250;
 
 let heroLevel;
-if (heroLevel< 1000) {
-    heroLevel = "Ferro";
+
+if (heroExperience< 1000) {
+    heroLevel = "Iron";
 }
-else if (heroLevel > 1000 && heroLevel <= 2000){
-    heroLevel
+else if (heroExperience > 1000 && heroExperience <= 2000){
+    heroLevel = "Bronze";
+}
+else if (heroExperience > 2000 && heroExperience <= 5000){
+    heroLevel =  "Silver";
+}
+else if (heroExperience > 5000 && heroExperience <= 7000){
+    heroLevel = "Gold";
+}
+else if 
+else {
+    heroLevel = "God"
 }
 
 
 
-console.log("não funcina")
+console.log(heroLevel)
