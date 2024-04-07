@@ -17,7 +17,6 @@ else if (heroExperience > 2000 && heroExperience <= 5000){
 else if (heroExperience > 5000 && heroExperience <= 7000){
     heroLevel = "Gold";
 }
-else if 
 else {
     heroLevel = "God"
 }
