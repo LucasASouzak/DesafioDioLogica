@@ -1,7 +1,7 @@
 //Classificador de nivel de heroi
 
 const heroName = "Shury"
-const heroExperience = 10001;
+const heroExperience = 13820;
 
 let heroLevel;
 
