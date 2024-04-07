@@ -1,5 +1,7 @@
 Conclusão desafio do Felipão-D.I.O.
 
+Código realizado em JavaScript -Variáveis -Operadores -Laços de repetição -Estruturas de decisões.
+
 Explicação do Código:
 
 Métodos Usados:
